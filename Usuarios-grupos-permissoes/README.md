@@ -1,4 +1,4 @@
-#Usuários, grupos e permissões no Linux
+# Usuários, grupos e permissões no Linux
 
 ## Sobre o projeto
 Esse projeto foi criado para particar o gerenciamento de usuários e grupos no Linux, além da configuração de proprietários, permissões de arquivos e ACL.
