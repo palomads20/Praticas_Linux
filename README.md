@@ -5,9 +5,7 @@ Aqui estão reunidos execícios práticos desenvolvidos durante meus estudos, co
 
 ## Práticas
 
-###01 - Organização de Arquivos
-
-Prática voltada ao gerenciamento e organização de arquivos e diretórios no Linux
+### 01 - Organização de Arquivos
 
 **Conteúdos praticados**
 - Criação de arquivos e diretórios
@@ -15,3 +13,11 @@ Prática voltada ao gerenciamento e organização de arquivos e diretórios no L
 - Cópia, movimentação e renomeação de arquivos
 - Remoção de arquivos e diretórios
 - Visualização e manipulação de conteúdo
+
+### 02 - Criação de usuários, grupos, arquivos e permissões
+
+**Conteúdos praticados**
+- Criação de usuarios e grupos
+- Criação e alteração de permissões
+- Alteração de proprietario
+- Consulta de grupos e permissões
