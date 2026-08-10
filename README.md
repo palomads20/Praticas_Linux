@@ -1,52 +1,17 @@
-# linux-organizacao-arquivos
-# Primeiro laboratorio linux utilizando comandos para manipular e visualizar arquivos
+# Práticas Linux
+ Repositório criado para documentar meus estudooos e práticas realcionadas ao sistema operacional Linux.
 
-## Sobre o projeto
+Aqui estão reunidos execícios práticos desenvolvidos durante meus estudos, com foco em administração de sistemas, gerenciamento de usuários e grupos, permissões, arquivos, redes e segurança.
 
-Esse projeto foi desenvolvido como parte dos meus estudos em Linux, utilizando Ubuntu em maquina virtual.
-O objetivo desse projeto é praticar os comandos apreendidos para criação, organização, movimentação, cópia, remoção e visualização de arquivos e diretórios.
+## Práticas
 
-## Ambiente utilizado
-Maquina virtual: VirtualBox
-Sistema operacional Ubuntu
-Terminal Linux
+###01 - Organização de Arquivos
 
-## Objetivo
-- Aprender a navegar pelo terminal Linux
-- Entender a estruturação de diretorios
-- Praticar manipulação de arquivos e pastas
-- Utilizar comandos de visualização e pesquisa
-- Me familiarizar com linhas de comando
+Prática voltada ao gerenciamento e organização de arquivos e diretórios no Linux
 
-  ## Comandos praticados
-
-  ## Navegação
-  - pwd
-  - ls
-  - ls -s
-  - cd
-  - cd ..
-
-  ## Visualização e edição
-
-  - cat
-  - tac
-  - less
-  - head
-  - tail
-  - grep
-
-  ## Manipulação de arquivos e diretórios
-
-  - mkdir
-  - touch
-  - cp
-  - mv
-  - rm
-
-  ## Evidências
-   Na pasta imagens foram adicionados os prints dos comandos utilizados no terminal Linux
-
-  ## Aprendizados
-   Durante esse laboratorio me familiarizei com o terminal Linux aprendendo como criar e organizar arquivos, navegar pelo sitema e utilizar comandos básicos de administração de sistemas.
-    
+**Conteúdos praticados**
+- Criação de arquivos e diretórios
+- Navegação pelo sistema e diretórios
+- Cópia, movimentação e renomeação de arquivos
+- Remoção de arquivos e diretórios
+- Visualização e manipulação de conteúdo
