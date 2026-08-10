@@ -18,6 +18,7 @@ Aqui estão reunidos execícios práticos desenvolvidos durante meus estudos, co
 
 **Conteúdos praticados**
 - Criação de usuarios e grupos
+- Adicionar os usuários aos grupos
 - Criação e alteração de permissões
 - Alteração de proprietario
 - Consulta de grupos e permissões
